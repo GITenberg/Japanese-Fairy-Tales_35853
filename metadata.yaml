@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '37941'
     url: http://www.gutenberg.org/2009/agents/37941
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35853#Japanese-Fairy-Tales
 gutenberg_issued: '2011-04-13'
 gutenberg_type: Text
 identifiers:
