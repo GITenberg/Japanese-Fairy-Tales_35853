@@ -1,0 +1,42 @@
+_repo: Japanese-Fairy-Tales_35853
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Goble, Warwick
+    birthdate: 1862
+    deathdate: 1943
+    gutenberg_agent_id: '25683'
+    url: http://www.gutenberg.org/2009/agents/25683
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: James, Grace
+    gutenberg_agent_id: '37941'
+    url: http://www.gutenberg.org/2009/agents/37941
+description: ''
+gutenberg_issued: '2011-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35853'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Fairy tales -- Japan'
+tableOfContents: Green willow -- The flute -- The tea-kettle -- The peony lantern
+  -- The Sea King and the magic jewels -- The good thunder -- The black bowl -- The
+  star lovers -- Horaizan -- Reflections -- The story of Susa, the Impetuous -- The
+  wind in the pine tree -- Flower of the peony -- The mallet -- The bell of Dōjōji
+  -- The Maiden of Unai -- The robe of feathers -- The Singing Bird of Heaven -- The
+  Cold Lady -- The Fire Quest -- A legend of Kwannon -- The espousal of the rat's
+  daughter -- The land of Yomi -- The spring lover and the autumn lover -- The strange
+  story of the golden comb -- The jelly-fish takes a journey -- Urashima -- Tamamo,
+  the fox maiden -- Momotaro -- The Matsuyama mirror -- Broken images -- The tongue-cut
+  sparrow -- The nurse -- The beautiful dancer of Yedo -- Hana-saka-jiji -- The moon
+  maiden -- Karma -- The sad story of the Yaoya's daughter.
+title: Japanese Fairy Tales
+url: http://www.gutenberg.org/ebooks/35853
